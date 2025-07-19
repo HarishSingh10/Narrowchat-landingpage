@@ -29,7 +29,7 @@ To view and run the landing page locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harshvardhan119/Narrowchatdashboard.git
+   
    ```
 
 2. Navigate to the project directory:
